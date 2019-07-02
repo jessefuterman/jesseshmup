@@ -1,0 +1,20 @@
+#app {
+    height: 400px;
+    width: 450px;
+    position: relative;
+}
+
+#restartBtn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #ea47ff;
+    border-radius: 10px;
+    border: 4px solid #fff;
+    padding: 10px 20px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: #fff;
+    cursor: pointer;
+}
